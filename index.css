@@ -1,0 +1,30 @@
+			header, footer, nav, article, aside{
+				display: block;
+				}
+				
+				body {
+			background-image: url("Images/Wallpaper.png");
+			background-repeat:no-repeat;
+			background-size:cover;
+			color:beige;
+			/*This is some epicc CSS code*/
+			}
+			
+			#resize{
+				margin-left:35%; 				
+			}
+			
+			
+			#petscop2{
+				/*I think I used these a little early*/
+				float: right;
+			}
+			
+			#pyroface{
+				float: left; 
+				margin: 3px;
+			}
+			
+			#subs{
+				margin-left: 250px;
+			}

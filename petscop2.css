@@ -1,0 +1,11 @@
+			header, footer, nav, article, aside{
+				display: block;
+				}
+				
+				body {
+			background-image: url("Images/newmaker.png");
+			background-repeat:no-repeat;
+			background-size:cover;
+			color:white;
+			/*Petscop is cool*/
+			} 
